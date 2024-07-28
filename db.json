@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "lucaslesnicki@gmail.com",
+      "password": "1234",
+      "cart": [],
+      "shelf": []
+    },
+    {
+      "email": "lucaslesnicki18@gmail.com",
+      "password": "12345",
+      "cart": [],
+      "shelf": [],
+      "id": 2
+    },
+    {
+      "email": "saraivaromuloa@gmail.com",
+      "password": "1234",
+      "cart": [],
+      "shelf": [
+        {
+          "id": 2,
+          "name": "Adão Negro ",
+          "image": "@/assets/Adão Negro.png"
+        },
+        {
+          "id": 3,
+          "name": "Vingadores Ultimato",
+          "image": "@/assets/Vingadores Ultimato.png"
+        },
+        {
+          "id": 4,
+          "name": "Django",
+          "image": "@/assets/Django.png"
+        },
+        {
+          "id": 5,
+          "name": "Matrix",
+          "image": "@/assets/Matrix.png"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "email": "saraivaromuloa@gmail.com",
+      "password": "1234",
+      "cart": [],
+      "shelf": [],
+      "id": 4
+    },
+    {
+      "email": "saraivaromuloa@gmail.com",
+      "password": "1234",
+      "cart": [],
+      "shelf": [],
+      "id": 5
+    },
+    {
+      "email": "saraivaromuloa@gmail.com",
+      "password": "1234",
+      "cart": [],
+      "shelf": [],
+      "id": 6
+    },
+    {
+      "email": "saraivaromuloa@gmail.com",
+      "password": "12345",
+      "cart": [
+        {
+          "id": 3,
+          "name": "Indiana Jones",
+          "image": "@/assets/Indiana_Jones.png"
+        }
+      ],
+      "shelf": [],
+      "id": 7
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": " The Batman",
+      "image": "@/assets/Batman.png"
+    },
+    {
+      "id": 2,
+      "name": "Adão Negro ",
+      "image": "@/assets/Adão Negro.png"
+    },
+    {
+      "id": 3,
+      "name": "Vingadores Ultimato",
+      "image": "@/assets/Vingadores Ultimato.png"
+    },
+    {
+      "id": 4,
+      "name": "Django",
+      "image": "@/assets/Django.png"
+    },
+    {
+      "id": 5,
+      "name": "Matrix",
+      "image": "@/assets/Matrix.png"
+    },
+    {
+      "id": 6,
+      "name": "Matrix 2",
+      "image": "@/assets/Matrix_2.png"
+    },
+    {
+      "id": 7,
+      "name": "Fuga em Nova York",
+      "image": "@/assets/Escape_from_New_York.png"
+    },
+    {
+      "id": 8,
+      "name": "Fantastica Fabrica de Chocolate",
+      "image": "@/assets/Fantastica Fabrica de Chocolate.png"
+    },
+    {
+      "id": 9,
+      "name": "Todo mundo em panico 4",
+      "image": "@/assets/TD mundo em panico.png"
+    },
+    {
+      "id": 10,
+      "name": "Cloverfield",
+      "image": "@/assets/Cloverfield.png"
+    }
+  ]
+}
